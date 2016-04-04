@@ -1,7 +1,7 @@
 name: Eve Burchfield
 favicon: null
-layout_spectrum: 0.89787
-typography_spectrum: 0.47593
+layout_spectrum: 0.55691
+typography_spectrum: 0.38676
 title: Eve Burchfield
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6ac4de'
-    - '#cfd863'
-    - '#efefef'
-    - '#a2988f'
-    - '#6080a6'
-  brandStrength: 0.125
-  lightness: 1
-  saturation: 0.625
+    - '#ede4d3'
+    - '#ce332e'
+    - '#b6afa2'
+    - '#171722'
+    - '#376a94'
+  brandStrength: 0.8125
+  lightness: 0.9375
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
