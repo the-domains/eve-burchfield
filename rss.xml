@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Eve Burchfield]]></title>
         <description><![CDATA[Eve Burchfield]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eve-burchfield/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 04:02:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 04:16:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eve-burchfield/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Aecom Interactive City]]></title>
             <description><![CDATA[<article><h1>Aecom Interactive City</h1><p>An interactive city game based on real data to be played on 2 touch screens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99341d1524641fe61d3b7c9479bd6fa0db20d117.jpg"></article>]]></description>
-            <link>undefinedaecom-interactive-city/index.html</link>
+            <link>https://thegrid.ai/eve-burchfield/aecom-interactive-city/index.html</link>
             <guid isPermaLink="false">5bffd57c-120d-47d9-b152-e567bcee15fd</guid>
-            <pubDate>Mon, 04 Apr 2016 04:02:54 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 04:16:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
