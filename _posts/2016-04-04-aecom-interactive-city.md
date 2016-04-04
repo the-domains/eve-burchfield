@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: An interactive city game based on real data to be played on 2 touch screens.
-datePublished: '2016-04-04T04:02:54.122Z'
-dateModified: '2016-04-04T04:02:42.272Z'
+datePublished: '2016-04-04T04:16:48.137Z'
+dateModified: '2016-04-04T04:16:44.978Z'
 title: Aecom Interactive City
 author: []
+sourcePath: _posts/2016-04-04-aecom-interactive-city.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-aecom-interactive-city.md
-published: true
 url: aecom-interactive-city/index.html
 _type: Article
 
