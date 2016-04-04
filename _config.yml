@@ -22,8 +22,8 @@ color:
     - '#efefef'
     - '#a2988f'
     - '#6080a6'
-  brandStrength: 0
-  lightness: 0.75
+  brandStrength: 0.125
+  lightness: 0.875
   saturation: 0.5
   rhythmicContrast: 1
 purpose: []
