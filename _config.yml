@@ -1,6 +1,6 @@
 name: Eve Burchfield
 favicon: null
-layout_spectrum: 0.91489
+layout_spectrum: 0.89787
 typography_spectrum: 0.47593
 title: Eve Burchfield
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 0.25
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
